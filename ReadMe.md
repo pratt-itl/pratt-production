@@ -1,4 +1,4 @@
-# MAG
+# Pratt Productions
 
 ## How to contribute
 
