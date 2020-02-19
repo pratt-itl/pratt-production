@@ -182,18 +182,18 @@ Ensure when submitting files to the Zund that you are producing a PDF via Save A
 
 Depending on the material stock selected, ensure that your scale is correct and the desired material dimensions are adhered to. As follows are the stock dimensions for the base material offerings within the ITL. 
 
-- 2 ply Bristol Board, White : 32 x 40” 
-- 4 ply Bristol Board, White : 32 x 40”
-- 5/32 Cardboard, Brown : 48 x 96”
-- 1/2" Honeycomb Sandwich Board : 48 x 96”
-- 1” Honeycomb Sandwich Board : 48 x 96” 
-- 1/8" Foam Board, White : 48 x 96” 
-- 3/16” Foam Board, White : 48 x 96”
-- 1/2" Foam Board, White : 48 x 96”
-- 3/16” Foam Board, Black : 48 x 96”
-- 1/2" Foam Board, Black : 48 x 96”
-
-
+| Thickness | Material Type            | Dimensions |
+| --------- | ------------------------ | ---------- |
+| 2 ply     | Bristol Board, White     | 32 x 40"   |
+| 4 ply     | Bristol Board, White     | 32 x 40"   |
+| 5/32"     | Corrugated Cardboard     | 48 x 96"   |
+| 1/2"      | Honeycomb Sandwich Board | 48 x 96"   |
+| 1"        | Honeycomb Sandwich Board | 48 x 96"   |
+| 1/8"      | Foam Board, White        | 48 x 96"   |
+| 3/16"     | Foam Board, White        | 48 x 96"   |
+| 1/2"      | Foam Board, White        | 48 x 96"   |
+| 3/16"     | Foam Board, Black        | 48 x 96"   |
+| 1/2"      | Foam Board, Black        | 48 x 96"   |
 
 Setting up layers for a Zund Job should follow the order listed below, from top to bottom, depending upon the desired material and tooling path operations. 
 
