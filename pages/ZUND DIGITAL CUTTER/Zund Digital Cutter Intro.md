@@ -1,9 +1,9 @@
 ---
 layout: process
-title: TEST THIS
+title: Zund Digital Cutting
 category: Technical
 subcategory: 
-description: THIS IS A TEST
+description: Zund Digital Cutting Production
 order: 1
 ---
 
