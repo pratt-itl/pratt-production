@@ -272,16 +272,16 @@ Upon completion of any one job an email notification will be sent out for pickup
 
 ------
 
-*Created by ITL*
+**Created by ITL**
 
-*ITL Website : [itl.pratt.edu](https://itl.pratt.edu/)*
+**ITL Website : [itl.pratt.edu](https://itl.pratt.edu/)**
 
-*DFG Website : [pratt.digitalfutures.info](http://www.pratt.digitalfutures.info/)*
+**DFG Website : [pratt.digitalfutures.info](http://www.pratt.digitalfutures.info/)**
 
-*Instagram : @pratt.itl*
+**Instagram : @pratt.itl**
 
-*ITL Email : [itl@pratt.edu](mailto:itl@pratt.edu)* 
+**ITL Email : [itl@pratt.edu](mailto:itl@pratt.edu)** 
 
-*ITL Zund Email : [itlzund@pratt.edu](mailto:itlzund@pratt.edu)*
+**ITL Zund Email : [itlzund@pratt.edu](mailto:itlzund@pratt.edu)**
 
-*Location : Pratt Institute, Engineering Bld. 002-006*
+**Location : Pratt Institute, Engineering Bld. 002-006**
