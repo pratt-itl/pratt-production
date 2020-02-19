@@ -3,7 +3,7 @@ layout: process
 title: Zund
 category: Technical
 subcategory: 
-description: Zund Digital Cutting Production
+description: Digital Cutting Production
 order: 1
 ---
 
