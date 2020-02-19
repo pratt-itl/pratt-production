@@ -1,6 +1,6 @@
 ---
 layout: process
-title: Zund Digital Cutting
+title: Zund
 category: Technical
 subcategory: 
 description: Zund Digital Cutting Production
