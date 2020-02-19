@@ -9,7 +9,7 @@ order: 1
 
 <hr class="homebreak">
 
-## Zund Digital Cutting Production
+## Digital Cutting Production
 ---
 
 **Location :** 
@@ -24,9 +24,9 @@ SP20, Tues., Wed., Fri., 10am - 6pm
 
 
 
-Submission Form :
+**Submission Form :**
 
-[File submission ](https://docs.google.com/forms/d/e/1FAIpQLScTz8niPRIooqgmfP3bfpjcncqaEu5U0TIRKxLnpIhXf5vYMg/viewform?usp=sf_link)
+[Zund File Submission Form SP20](https://docs.google.com/forms/d/e/1FAIpQLScTz8niPRIooqgmfP3bfpjcncqaEu5U0TIRKxLnpIhXf5vYMg/viewform?usp=sf_link)
 
 
 
@@ -34,4 +34,3 @@ Submission Form :
 
 
 
-> something simple here to see how text works and updates
