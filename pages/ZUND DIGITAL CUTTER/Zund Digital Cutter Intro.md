@@ -293,7 +293,9 @@ Upon completion of any one job an email notification will be sent out for pickup
 
 > quote
 
-**bold**
+
+
+
 
 
 
@@ -316,7 +318,7 @@ and how does it handle content
 
 
 
-[^here are footnotes]: 
+[^here are footnotes]: over here
 
 ![](C:\Users\sesor\Desktop\IMG_2598.jpg)
 
