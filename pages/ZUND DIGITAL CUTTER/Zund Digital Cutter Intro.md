@@ -16,13 +16,9 @@ order: 1
 
 Engineering Building, Lower Level, Room 002-006
 
-
-
 **Hours of Operation :** 
 
 SP20, Tues., Wed., Fri., 10am - 6pm
-
-
 
 **Submission Form :**
 
