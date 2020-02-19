@@ -286,3 +286,39 @@ Upon completion of any one job an email notification will be sent out for pickup
 **Location : Pratt Institute, Engineering Bld. 002-006**
 
 `what is this`
+
+`can you keep typing like this`
+
+`and here`
+
+> quote
+
+**bold**
+
+
+
+[TOC]
+
+```
+what is a code fence
+and how does it handle content
+```
+
+| use this table |      |      |
+| -------------- | ---- | ---- |
+|                |      |      |
+|                |      |      |
+|                |      |      |
+
+
+
+------
+
+
+
+[^here are footnotes]: 
+
+![](C:\Users\sesor\Desktop\IMG_2598.jpg)
+
+
+
