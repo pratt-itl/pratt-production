@@ -264,7 +264,11 @@ Print Only Operations
 
 
 
+
+
 Upon completion of any one job an email notification will be sent out for pickup from the Zund Project Storage unit. A board number will be issued in order to track job collection. 
+
+
 
 ------
 
