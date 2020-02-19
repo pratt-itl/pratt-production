@@ -1,6 +1,6 @@
 ---
 layout: process
-title: 3D Print Center
+title: 3DPC
 category: Technical
 subcategory: 
 description: 3D Print Center Production
