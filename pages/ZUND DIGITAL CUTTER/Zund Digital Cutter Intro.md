@@ -252,10 +252,9 @@ Digital Cutting Operations
 Printing and Cutting Operations
 
 - 2 ply Bristol Board : $19.00
-
 - 4 ply Bristol Board : $25.50
 
-  
+
 
 Print Only Operations
 
