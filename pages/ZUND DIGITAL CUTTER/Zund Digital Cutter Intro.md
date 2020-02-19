@@ -26,7 +26,7 @@ SP20, Tues., Wed., Fri., 10am - 6pm
 
 Submission Form :
 
-[https://docs.google.com/forms/d/e/1FAIpQLScTz8niPRIooqgmfP3bfpjcncqaEu5U0TIRKxLnpIhXf5vYMg/viewform?usp=sf_link]: 	""Zund File Submission SP20""
+[Zund File Submission Form SP20]: https://docs.google.com/forms/d/e/1FAIpQLScTz8niPRIooqgmfP3bfpjcncqaEu5U0TIRKxLnpIhXf5vYMg/viewform?usp=sf_link	"file submission"
 
 
 
