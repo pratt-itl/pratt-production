@@ -85,7 +85,7 @@ The larger list of *only some* of the suitable materials for use on the Zund are
 
 
 
-**Tooling
+**Tooling**
 
 The Zund modular tooling system allows for a wide array of tooling capabilities with multiple tooling operations able to perform during a single job. The ITL has seven tools available for the different modules on the Zund. They are as follows. 
 
