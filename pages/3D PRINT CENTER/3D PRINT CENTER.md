@@ -3,7 +3,7 @@ layout: process
 title: 3DPC
 category: Technical
 subcategory: 
-description: 3D Print Center Production
+description: 3D Print Production
 order: 2
 ---
 
