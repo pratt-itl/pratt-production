@@ -81,7 +81,7 @@ The larger list of *only some* of the suitable materials for use on the Zund are
 
 
 
-<u>The ITL, a part of the normative offering for production on the Zund, is providing, as a start, stock materials offered at below competitive rates - corrugated cardboard, honeycomb sandwich board, 2ply bristol, 4ply bristol and a varying thickness of black and white foam board.</u> 
+> <u>The ITL, a part of the normative offering for production on the Zund, is providing, as a start, stock materials offered at below competitive rates - corrugated cardboard, honeycomb sandwich board, 2ply bristol, 4ply bristol and a varying thickness of black and white foam board.</u> 
 
 
 
@@ -163,7 +163,7 @@ Producing angular cuts, edges or grooves utilizes the v-cutting tool allowing fo
 
 
 
-*\* The Zund is not a laser cutter and it's not a CNC mill. As such, it should never be used for production output that could be done on these machines.* 
+> *\* The Zund is not a laser cutter and it's not a CNC mill. As such, it should never be used for production output that could be done on these machines.* 
 
 
 
@@ -224,16 +224,16 @@ Routing Module
 4. Route
 5. Reference layer
 
-**If a particular layer is not desired, simply omit this layer, but maintain the order hierarchy.* 
+> **If a particular layer is not desired, simply omit this layer, but maintain the order hierarchy.* 
 
 When setting up a cut job with interior and exterior cuts, be sure to separate out and create multiple through cut layers for interior and exterior. 
 
-EX. 
-
-1. Thru-cut Interior 01
-2. Thru-cut Interior 02
-3. Thru-cut Exterior 01
-4. Etc. 
+> EX. 
+>
+> 1. Thru-cut Interior 01
+> 2. Thru-cut Interior 02
+> 3. Thru-cut Exterior 01
+> 4. Etc. 
 
 This is to mitigate the situation where an exterior or perimeter cut is made first and an interior cut is desired within this already cut piece which now will have less vacuum hold down surface area and increase the likelihood of errors occurring. 
 
