@@ -254,34 +254,30 @@ Inclusion of registration dots within both the print and cut files (in the same 
 
 Once the job is submitted and verified from the user, the following charges will be applied and the job processed. For the Spring 2020, a flat fee will be applied to all jobs tied to the material selected. Printing will incur an additional flat fee price onto any job that utilizes this process. 
 
-Digital Cutting Operations
-
-- 2 ply Bristol Board : $15.50
-- 4 ply Bristol Board : $21.00
-- 5/32 Cardboard : $15.50
-- 1/2" Honeycomb Sandwich Board : $26.50
-- 1” Honeycomb Sandwich Board : $38.50
-- 1/8" Foam Board, White : $23.50 
-- 3/16” Foam Board, White : $23.50
-- 1/2" Foam Board, White : $37.50
-- 3/16” Foam Board, Black : $28.50
-- 1/2" Foam Board, Black : $47.00
 
 
+| Digital Cutting Operations    | Cost   |
+| ----------------------------- | ------ |
+| 2 ply Bristol Board           | $15.50 |
+| 4 ply Bristol Board           | $21.00 |
+| 5/32" Cardboard               | $15.50 |
+| 1/2" Honeycomb Sandwich Board | $26.50 |
+| 1” Honeycomb Sandwich Board   | $38.50 |
+| 1/8" Foam Board, White        | $23.50 |
+| 3/16” Foam Board, White       | $23.50 |
+| 1/2" Foam Board, White        | $37.50 |
+| 3/16” Foam Board, Black       | $28.50 |
+| 1/2" Foam Board, Black        | $47.00 |
 
-Printing and Cutting Operations
+| Printing and Cutting Operations | Cost   |
+| ------------------------------- | ------ |
+| 2 ply Bristol Board             | $19.00 |
+| 4 ply Bristol Board             | $25.50 |
 
-- 2 ply Bristol Board : $19.00
-- 4 ply Bristol Board : $25.50
-
-
-
-Print Only Operations
-
-- 2 ply Bristol Board : $9.00
-- 4 ply Bristol Board : $15.50
-
-
+| Print Only Operations | Cost   |
+| --------------------- | ------ |
+| 2 ply Bristol Board   | $9.00  |
+| 4 ply Bristol Board   | $15.50 |
 
 
 
