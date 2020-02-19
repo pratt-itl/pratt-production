@@ -224,16 +224,12 @@ All Modules / Tools (Expect Routing)
 Routing Module
 
 1. Registration - dots or board
-
 2. Engrave
-
 3. Drill
-
 4. Route
-
 5. Reference layer
 
-   
+
 
 > **If a particular layer is not desired, simply omit this layer, but maintain the order hierarchy.* 
 
