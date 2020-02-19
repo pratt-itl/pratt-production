@@ -148,6 +148,8 @@ RMT
 
 
 
+
+
 ------
 
 **Capabilities**
@@ -175,6 +177,8 @@ There are a number of automated procedures that have been configured with the Zu
 V-Cutting and Beveling
 
 Producing angular cuts, edges or grooves utilizes the v-cutting tool allowing for a range of precision angles to be achieved - Chamfering, beveling, groove cutting or mitering. 
+
+
 
 
 
@@ -220,10 +224,16 @@ All Modules / Tools (Expect Routing)
 Routing Module
 
 1. Registration - dots or board
+
 2. Engrave
+
 3. Drill
+
 4. Route
+
 5. Reference layer
+
+   
 
 > **If a particular layer is not desired, simply omit this layer, but maintain the order hierarchy.* 
 
@@ -276,6 +286,8 @@ Print Only Operations
 
 
 Upon completion of any one job an email notification will be sent out for pickup from the Zund Project Storage unit. A board number will be issued in order to track job collection. 
+
+
 
 
 
