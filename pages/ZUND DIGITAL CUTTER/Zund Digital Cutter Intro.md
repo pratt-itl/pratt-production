@@ -38,6 +38,8 @@ SP20, Tues., Wed., Fri., 10am - 6pm
 
 
 
+------
+
 **Introduction**
 
 Automatization and efficiency with unparalleled precision are the cornerstones of the Zund Digital Cutting system. Its multi axis, conveyor belt hold down system, with seven different tooling options with a range of various blades and bits allow for a variety of different materials spanning from soft to hard, in a range of various sizes - most notably large format!
@@ -45,6 +47,8 @@ Automatization and efficiency with unparalleled precision are the cornerstones o
 At first glance the Zund Digital Cutter can be thought of as being located in the middle ground between a laser cutter and a CNC mill, but it's this middle zone and the material offerings, stock sizes and precision that renders this a unique and powerful tooling option.
 
 
+
+------
 
 **Material**
 
@@ -84,6 +88,8 @@ The larger list of *only some* of the suitable materials for use on the Zund are
 > <u>The ITL, a part of the normative offering for production on the Zund, is providing, as a start, stock materials offered at below competitive rates - corrugated cardboard, honeycomb sandwich board, 2ply bristol, 4ply bristol and a varying thickness of black and white foam board.</u> 
 
 
+
+------
 
 **Tooling**
 
@@ -142,6 +148,8 @@ RMT
 
 
 
+------
+
 **Capabilities**
 
 Printing & Cutting 
@@ -173,6 +181,8 @@ Producing angular cuts, edges or grooves utilizes the v-cutting tool allowing fo
 > *\* The Zund is not a laser cutter and it's not a CNC mill. As such, it should never be used for production output that could be done on these machines.* 
 
 
+
+------
 
 **Submission**
 
@@ -284,43 +294,3 @@ Upon completion of any one job an email notification will be sent out for pickup
 **ITL Zund Email : [itlzund@pratt.edu](mailto:itlzund@pratt.edu)**
 
 **Location : Pratt Institute, Engineering Bld. 002-006**
-
-`what is this`
-
-`can you keep typing like this`
-
-`and here`
-
-> quote
-
-
-
-
-
-
-
-[TOC]
-
-```
-what is a code fence
-and how does it handle content
-```
-
-| use this table |      |      |
-| -------------- | ---- | ---- |
-|                |      |      |
-|                |      |      |
-|                |      |      |
-
-
-
-------
-
-
-
-[^here are footnotes]: over here
-
-![](C:\Users\sesor\Desktop\IMG_2598.jpg)
-
-
-
