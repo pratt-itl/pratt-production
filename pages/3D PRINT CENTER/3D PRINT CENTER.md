@@ -26,12 +26,6 @@ MTWTFSS, 8:30am - Midnight
 
 
 
-Coming Soon ...
-
-All documentation on the production capabilities of the 3D Print Center and its submission protocols. 
-
-
-
 The 3D Printing Center is Pratt’s centralized hub for 3D printing and 3D scanning. The facility is open to students and staff of all disciplines. We offer a variety of 3D printers and materials to fit different stages of the design process—from prototyping, to printed waxes for lost-wax casting, to presentation-quality resin prints.
 
 The facility is staffed by an enthusiastic and knowledgeable group of student monitors, who in addition to performing all 3D scanning and 3D printing duties, design useful items for the 3D Printing Center that we 3D print in-house and use every day. These designs are available to the public on our [Thingiverse page](http://www.thingiverse.com/Pratt3DPrinting/designs).
