@@ -26,6 +26,8 @@ SP20, Tues., Wed., Fri., 10am - 6pm
 
 
 
+![](C:\Users\sesor\Documents\GitHub\pratt-production\pages\ZUND DIGITAL CUTTER\images\2020.02.24 ITL SOA RESEARCH REF 01.jpg)
+
 ------
 
 
@@ -81,7 +83,7 @@ The larger list of *only some* of the suitable materials for use on the Zund are
 
 
 
-~~image~~
+![](C:\Users\sesor\Documents\GitHub\pratt-production\pages\ZUND DIGITAL CUTTER\images\2020.02.24 ITL SOA RESEARCH REF.jpg)
 
 
 
@@ -95,13 +97,13 @@ The larger list of *only some* of the suitable materials for use on the Zund are
 
 The Zund modular tooling system allows for a wide array of tooling capabilities with multiple tooling operations able to perform during a single job. The ITL has seven tools available for the different modules on the Zund. They are as follows. 
 
-1. UCT : Universal Cutting Tool
-2. KCT : Kiss Cutting Tool
-3. DRT : Driven Rotary Tool
-4. EOT : Electric Oscillating Tool
-5. POT : Pneumatic Oscillating Tool
-6. VCT : V-Cutting Tool
-7. RMT : Routing Module Tool
+1. UCT : [Universal Cutting Tool](https://www.zund.com/en/cutting-systems/modules-and-tools/tools/universal-cutting-tool-uct)
+2. KCT : [Kiss Cutting Tool](https://www.zund.com/en/cutting-systems/modules-and-tools/tools/kiss-cut-tool-kct)
+3. DRT : [Driven Rotary Tool](https://www.zund.com/en/cutting-systems/modules-and-tools/tools/driven-rotary-tool-drt)
+4. EOT : [Electric Oscillating Tool](https://www.zund.com/en/cutting-systems/modules-and-tools/tools/electric-oscillating-tool-eot)
+5. POT : [Pneumatic Oscillating Tool](https://www.zund.com/en/cutting-systems/modules-and-tools/tools/pneumatic-oscillating-tool-pot)
+6. VCT : [V-Cutting Tool](https://www.zund.com/en/cutting-systems/modules-and-tools/tools/v-cut-tool-vct)
+7. RML : [Routing Module Tool](https://www.zund.com/en/cutting-systems/modules-and-tools/modules/router-module)
 
 The use cases for these tools are they relate to materials and tooling operation vary, however the initial conceptualization of them should be as follows.
 
@@ -141,7 +143,7 @@ VCT
 - This is typically used for beveling or groove cutting at a 0,15,22.5,30 or 45 degree angle. 
 - The material capability aligns closer to soft and medium density materials with thickness suitable for an edge condition. Corrugated cardboards, honeycomb, felt, foam board, rubbers and plastics.
 
-RMT
+RML
 
 - Is a routing tool utilizing an automatic bit changer for tooling operations.
 - The material capabilities align closer to the harder end of the spectrum with soft metals, composites, acrylics, hard plastics and plywood.
@@ -237,10 +239,18 @@ When setting up a cut job with interior and exterior cuts, be sure to separate o
 
 EX. 
 
-1. Thru-cut Interior 01
-2. Thru-cut Interior 02
-3. Thru-cut Exterior 01
-4. Etc. 
+1. Registration Dots
+2. Score - Blue line
+3. Thru-cut Interior 01 - Green line
+4. Thru-cut Exterior 01 - Red line
+
+
+
+![](C:\Users\sesor\Documents\GitHub\pratt-production\pages\ZUND DIGITAL CUTTER\images\2020.02.20-ITL-HOUSE-CUT-AND-PRINT.gif)
+
+
+
+*Note that the 1/4" Dia. registration dots are in the exact same location in both the print and cut files. 
 
 This is to mitigate the situation where an exterior or perimeter cut is made first and an interior cut is desired within this already cut piece which now will have less vacuum hold down surface area and increase the likelihood of errors occurring. 
 
@@ -281,7 +291,7 @@ Upon completion of any one job an email notification will be sent out for pickup
 
 
 
-
+![](C:\Users\sesor\Documents\GitHub\pratt-production\pages\ZUND DIGITAL CUTTER\images\Image from iOS (2).jpg)
 
 ------
 
