@@ -42,7 +42,7 @@ SP20, Tues., Wed., Fri., 10am - 6pm
 
 ------
 
-**Introduction**
+<strong id="introduction">Introduction</strong>
 
 Automatization and efficiency with unparalleled precision are the cornerstones of the Zund Digital Cutting system. Its multi axis, conveyor belt hold down system, with seven different tooling options with a range of various blades and bits allow for a variety of different materials spanning from soft to hard, in a range of various sizes - most notably large format!
 
@@ -52,7 +52,7 @@ At first glance the Zund Digital Cutter can be thought of as being located in th
 
 ------
 
-**Material**
+<strong id="material">Material</strong>
 
 The Zund can handle a range of materials but principally should be utilized as a tool for those materials that are not suitable for a laser cutter or a CNC mill. Broadly speaking this may cover materials with an aerated interior, materials that react or break down with heat, materials that exceed a laser bed or those that would be too difficult to clamp down to a CNC mill. 
 
@@ -93,7 +93,7 @@ The larger list of *only some* of the suitable materials for use on the Zund are
 
 ------
 
-**Tooling**
+<strong id="tooling">Tooling</strong>
 
 The Zund modular tooling system allows for a wide array of tooling capabilities with multiple tooling operations able to perform during a single job. The ITL has seven tools available for the different modules on the Zund. They are as follows. 
 
@@ -154,7 +154,7 @@ RML
 
 ------
 
-**Capabilities**
+<strong id="capabilities">Capabilities</strong>
 
 Printing & Cutting 
 
@@ -190,7 +190,7 @@ Producing angular cuts, edges or grooves utilizes the v-cutting tool allowing fo
 
 ------
 
-**Submission**
+<strong id="submission">Submission</strong>
 
 The Zund handles Vector format files and recognized layers for tool path operations. In order to submit files to the Zund, use the google form template located here. 
 
