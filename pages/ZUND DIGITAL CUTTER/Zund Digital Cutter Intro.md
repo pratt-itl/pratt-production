@@ -83,7 +83,7 @@ The larger list of *only some* of the suitable materials for use on the Zund are
 
 
 
-<img src=".\images\2020.02.24 ITL SOA RESEARCH REF.jpg" style="zoom: 33%;" />
+<img src=".\images\2020.02.24 ITL SOA RESEARCH REF.jpg" style="zoom: 50%;" />
 
 
 
@@ -248,7 +248,7 @@ EX.
 
 
 
-**Note that the 1/4" Dia. registration dots are in the exact same location in both the print and cut files.* 
+> **Note that the 1/4" Dia. registration dots are in the exact same location in both the print and cut files.* 
 
 This is to mitigate the situation where an exterior or perimeter cut is made first and an interior cut is desired within this already cut piece which now will have less vacuum hold down surface area and increase the likelihood of errors occurring. 
 
