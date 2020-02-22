@@ -26,7 +26,7 @@ SP20, Tues., Wed., Fri., 10am - 6pm
 
 
 
-![](C:\Users\sesor\Documents\GitHub\pratt-production\pages\ZUND DIGITAL CUTTER\images\2020.02.24 ITL SOA RESEARCH REF 01.jpg)
+![](.\images\2020.02.24 ITL SOA RESEARCH REF 01.jpg)
 
 ------
 
@@ -83,7 +83,7 @@ The larger list of *only some* of the suitable materials for use on the Zund are
 
 
 
-![](C:\Users\sesor\Documents\GitHub\pratt-production\pages\ZUND DIGITAL CUTTER\images\2020.02.24 ITL SOA RESEARCH REF.jpg)
+![](.\images\2020.02.24 ITL SOA RESEARCH REF.jpg)
 
 
 
@@ -289,7 +289,7 @@ Upon completion of any one job an email notification will be sent out for pickup
 
 
 
-![](C:\Users\sesor\Documents\GitHub\pratt-production\pages\ZUND DIGITAL CUTTER\images\Image from iOS (2).jpg)
+![](.\images\Image from iOS (2).jpg)
 
 ------
 
