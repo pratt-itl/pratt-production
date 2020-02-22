@@ -83,7 +83,7 @@ The larger list of *only some* of the suitable materials for use on the Zund are
 
 
 
-![](.\images\2020.02.24 ITL SOA RESEARCH REF.jpg)
+<img src=".\images\2020.02.24 ITL SOA RESEARCH REF.jpg" style="zoom: 33%;" />
 
 
 
@@ -244,7 +244,7 @@ EX.
 3. Thru-cut Interior 01 - Green line
 4. Thru-cut Exterior 01 - Red line
 
-![](.\images\2020.02.20-ITL-HOUSE-CUT-AND-PRINT.gif)
+![](.\images\2020.02.20-PRINT-AND-CUT-GIF-SMALL.gif)
 
 
 
@@ -289,7 +289,7 @@ Upon completion of any one job an email notification will be sent out for pickup
 
 
 
-![](.\images\ZUND HOUSE COMPLETE SMALL.jpg)
+<img src=".\images\ZUND HOUSE COMPLETE SMALL.jpg" style="zoom: 50%;" />
 
 ------
 
