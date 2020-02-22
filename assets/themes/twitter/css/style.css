@@ -143,11 +143,11 @@ a[data-toggle="collapse"] {
 
 p {
   font-size: .95rem;
-  line-height: 1.95;
-  padding-bottom: 10px;
-  padding-top: 10px;
+  /* line-height: 1.95; */
+  /* padding-bottom: 10px; */
+  /* padding-top: 10px; */
   font-family: 'IBM Plex Mono', sans-serif;
-  font-weight: 500;
+  /* font-weight: 500; */
 }
 
 h1 {
