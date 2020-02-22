@@ -248,7 +248,7 @@ EX.
 
 
 
-*Note that the 1/4" Dia. registration dots are in the exact same location in both the print and cut files. 
+**Note that the 1/4" Dia. registration dots are in the exact same location in both the print and cut files.* 
 
 This is to mitigate the situation where an exterior or perimeter cut is made first and an interior cut is desired within this already cut piece which now will have less vacuum hold down surface area and increase the likelihood of errors occurring. 
 
@@ -289,7 +289,7 @@ Upon completion of any one job an email notification will be sent out for pickup
 
 
 
-![](.\images\Image from iOS (2).jpg)
+<img src=".\images\Image from iOS (2).jpg" style="zoom: 25%;" />
 
 ------
 
