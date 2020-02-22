@@ -244,9 +244,7 @@ EX.
 3. Thru-cut Interior 01 - Green line
 4. Thru-cut Exterior 01 - Red line
 
-
-
-![]([https://github.com/pratt-itl/pratt-production/blob/master/pages/ZUND%20DIGITAL%20CUTTER/images/2020.02.20-ITL-HOUSE-CUT-AND-PRINT.gif](https://github.com/pratt-itl/pratt-production/blob/master/pages/ZUND DIGITAL CUTTER/images/2020.02.20-ITL-HOUSE-CUT-AND-PRINT.gif)
+![](.\images\2020.02.20-ITL-HOUSE-CUT-AND-PRINT.gif)
 
 
 
