@@ -246,7 +246,7 @@ EX.
 
 
 
-![](C:\Users\sesor\Documents\GitHub\pratt-production\pages\ZUND DIGITAL CUTTER\images\2020.02.20-ITL-HOUSE-CUT-AND-PRINT.gif)
+![]([https://github.com/pratt-itl/pratt-production/blob/master/pages/ZUND%20DIGITAL%20CUTTER/images/2020.02.20-ITL-HOUSE-CUT-AND-PRINT.gif](https://github.com/pratt-itl/pratt-production/blob/master/pages/ZUND DIGITAL CUTTER/images/2020.02.20-ITL-HOUSE-CUT-AND-PRINT.gif)
 
 
 
