@@ -61,48 +61,29 @@ The benefits of the Zund Blade system is that the tooling operation does not int
 The larger list of *only some* of the suitable materials for use on the Zund are as follows:
 
 - Fabrics
-
 - Films
-
 - Meshes
-
 - Open Cell Foams
-
 - Felt
-
 - Vinyl
-
 - Thick Stock Papers
-
 - Closed Cell Foams
-
 - Cardboard
-
 - Foam Board
-
 - Corrugated Plastic Boards
-
 - Honeycomb Sandwich
-
 - Plastics
-
 - Styrene
-
 - Rubbers
-
 - Acrylic
-
 - Expanded PVC Board
-
 - Plywood
-
 - Metal Composites
-
 - Soft Metals
 
-  
 
-<u>The ITL, a part of the normative offering for production on the Zund, is providing, as a start, stock materials offered at below competitive rates - corrugated cardboard, honeycomb sandwich board, 2ply bristol, 4ply bristol and a varying thickness of black and white foam board.</u> 
+
+> <u>The ITL, a part of the normative offering for production on the Zund, is providing, as a start, stock materials offered at below competitive rates - corrugated cardboard, honeycomb sandwich board, 2ply bristol, 4ply bristol and a varying thickness of black and white foam board.</u> 
 
 
 
@@ -236,7 +217,7 @@ Depending on the material stock selected, ensure that your scale is correct and 
 
 Setting up layers for a Zund Job should follow the order listed below, from top to bottom, depending upon the desired material and tooling path operations. 
 
-All Modules / Tools (Expect Routing)
+All Modules / Tools (Except Routing)
 
 1. Registration - dots or board edges
 2. Kiss Cut
@@ -248,7 +229,7 @@ All Modules / Tools (Expect Routing)
 
 Routing Module
 
-1. Registration - dots or board
+1. Registration - dots or boarder
 2. Engrave
 3. Drill
 4. Route
