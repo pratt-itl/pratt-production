@@ -83,7 +83,7 @@ The larger list of *only some* of the suitable materials for use on the Zund are
 
 
 
-<img src=".\images\2020.02.24 ITL SOA RESEARCH REF.jpg" style="zoom: 50%;" />
+<img src=".\images\2020.02.24 ITL SOA RESEARCH REF.jpg" style="zoom: 80%;" />
 
 
 
@@ -289,7 +289,7 @@ Upon completion of any one job an email notification will be sent out for pickup
 
 
 
-<img src=".\images\ZUND HOUSE COMPLETE SMALL.jpg" style="zoom: 50%;" />
+<img src=".\images\ZUND HOUSE COMPLETE SMALL.jpg" style="zoom: 80%;" />
 
 ------
 
