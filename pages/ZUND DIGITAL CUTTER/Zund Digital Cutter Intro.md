@@ -289,7 +289,7 @@ Upon completion of any one job an email notification will be sent out for pickup
 
 
 
-<img src=".\images\Image from iOS (2).jpg" style="zoom: 25%;" />
+![](.\images\ZUND HOUSE COMPLETE SMALL.jpg)
 
 ------
 
