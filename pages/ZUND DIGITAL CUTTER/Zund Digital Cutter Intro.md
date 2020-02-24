@@ -22,7 +22,7 @@ SP20, Tues., Wed., Fri., 10am - 6pm
 
 **Submission Form :**
 
-[Zund File Submission Form SP20](https://docs.google.com/forms/d/e/1FAIpQLScTz8niPRIooqgmfP3bfpjcncqaEu5U0TIRKxLnpIhXf5vYMg/viewform?usp=sf_link)
+[Zund File Submission Form SP20](https://docs.google.com/forms/d/e/1FAIpQLSeVOXkjmV9enja9X48jBCmq1ergVhghb2MUNG2IXI-cZ7GmRQ/viewform?usp=sf_link)
 
 
 
@@ -254,7 +254,7 @@ EX.
 
 > **Note that the 1/4" Dia. registration dots are in the exact same location in both the print and cut files.* 
 
-This is to mitigate the situation where an exterior or perimeter cut is made first and an interior cut is desired within this already cut piece which now will have less vacuum hold down surface area and increase the likelihood of errors occurring. 
+This is to mitigate the situation where an exterior or perimeter cut is made first and an interior cut is desired within this already cut piece which now will have less vacuum hold down surface area and increase the likelihood of errors occurring. Apart of this, it is recommended to provide approximately 1/4" spacing around profiles in order to address the same situation or to become increasingly aware of interior and exterior cuts, producing multiple layers and forcing an order of operations to the production routine. 
 
 Submission for printing on 2ply or 4ply bristol and cutting on the Zund should be sent on the same submission form with a PDF for Printing labeled and a Save As PDF for cutting. Ensure that the correct stock size is used and maintain a half inch safety margin all around the stock perimeter. 
 
